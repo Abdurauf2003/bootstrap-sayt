@@ -75,3 +75,10 @@
 p {
     font-family: 'Montserrat';
 }
+.reviews__container {
+    padding: 100px 50px;
+    background-color: #F0F5F8;
+}
+.nav-link.btn.btn-outline-secondary:hover {
+    color: white;
+}
